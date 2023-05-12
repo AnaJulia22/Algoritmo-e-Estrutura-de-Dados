@@ -36,7 +36,7 @@
 # site1.com.br
 #
 # site2.com.br
-
+ 
 
 #classe dos nós
 class Node:  
